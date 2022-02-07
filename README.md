@@ -1,4 +1,4 @@
-## Page Object Model Pattern with Playwright
+## Körber DBTools Project
 
 ![alt text](./Koerber_Logo_RGB_Black.png)
 
