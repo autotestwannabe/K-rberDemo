@@ -1,0 +1,15 @@
+{
+  "name": "Körber-DBTools",
+  "version": "1.0.0",
+  "description": "Körber DBTools Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "Muzaffar Syed - M&M Technologies - https://mnmtech.co say hello@mnmtech.co",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.18.1",
+    "playwright": "^1.12.3"
+  }
+}
