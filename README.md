@@ -1,6 +1,6 @@
 ## Page Object Model Pattern with Playwright
 
-![alt text](./playwright-logo.png)
+![alt text](./Koerber_Logo_RGB_Black.png)
 
 This repository contains simple automation test framework written with TypeScript and Playwright and implements Page Object Model Pattern.
 
